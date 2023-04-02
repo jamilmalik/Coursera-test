@@ -1,0 +1,28 @@
+* Set background color of section */
+.section {
+    background-color: #511818;
+    height: 1000px; /* Set the height of the section */
+}
+
+/* Center page heading */
+h1.text-center {
+    margin-top: 100px; /* Adjust this value to center the heading */
+}
+h3.text-center {
+    background-color: #511818;
+    color: #f2f2f2; 
+    margin: 0px;
+}
+/* Style the dropdown menu */
+.dropdown-menu {
+    background-color: #f2f2f2;
+    width: 100%;
+}
+p{
+    background-color: #511818;
+    color: #f2f2f2;
+    padding: 20px;
+}
+.navbar-default {
+    background-color: #2a2020;
+}
